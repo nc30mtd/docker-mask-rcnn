@@ -1,0 +1,8 @@
+keras==2.2.5
+tensorflow-gpu==1.15.0
+scikit-image
+opencv-python
+matplotlib
+IPython
+mrcnn
+h5py==2.10.0
